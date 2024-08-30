@@ -57,4 +57,4 @@
 - [ ] 处理k-v限额已满的异常处理
 
 ## 感谢
- 本项目脱胎于另一个同名项目[xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) 感谢原作者！
+ 本项目脱胎于另一个同名项目[xyTom/Url-Shorten-Worker](https://github.com/xyTom/Url-Shorten-Worker) 感谢原作者！感谢[wlnxing](https://github.com/wlnxing/URL-Shorten-Worker)
